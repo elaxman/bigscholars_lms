@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-All is fine
+
 
 You can use the [editor on GitHub](https://github.com/elaxman/bigscholars_lms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
